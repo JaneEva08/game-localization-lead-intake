@@ -1,0 +1,21 @@
+[
+  {
+    "name": "Test Contact One",
+    "contact": "contact-one@example.test",
+    "source": "developer_email",
+    "comment": "A fictional studio is considering Russian localization for a strategy game.",
+    "direction": "incoming",
+    "company": "Example Studio One",
+    "game_title": "Example Strategy",
+    "project_url": "https://example.test/game-one"
+  },
+  {
+    "name": "Partnerships Team",
+    "contact": "partnerships@example.test",
+    "source": "public_contact_page",
+    "comment": "Prepare an initial localization partnership proposal.",
+    "direction": "outgoing",
+    "company": "Example Studio Two",
+    "game_title": "Example Adventure"
+  }
+]

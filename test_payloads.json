@@ -1,0 +1,226 @@
+[
+  {
+    "case": "valid_01",
+    "payload": {
+      "name": "Example Contact One",
+      "contact": "contact1@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 1; do not contact.",
+      "company": "Company One",
+      "direction": "incoming",
+      "games": [
+        {
+          "title": "Game Example One",
+          "url": "https://example.test/game-1",
+          "materials_url": "https://example.test/media-1",
+          "genres": [
+            "RPG"
+          ],
+          "platforms": [
+            "PC"
+          ],
+          "languages": [
+            "Английский"
+          ],
+          "notes": "Fictional example 1"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_02",
+    "payload": {
+      "name": "Example Contact Two",
+      "contact": "contact2@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 2; do not contact.",
+      "company": "Company Two",
+      "direction": "outgoing",
+      "games": [
+        {
+          "title": "Game Example Two",
+          "url": "https://example.test/game-2",
+          "materials_url": "https://example.test/media-2",
+          "genres": [
+            "Приключение"
+          ],
+          "platforms": [
+            "PlayStation"
+          ],
+          "languages": [
+            "Русский"
+          ],
+          "notes": "Fictional example 2"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_03",
+    "payload": {
+      "name": "Example Contact Three",
+      "contact": "contact3@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 3; do not contact.",
+      "company": "Company Three",
+      "direction": "incoming",
+      "games": [
+        {
+          "title": "Game Example Three",
+          "url": "https://example.test/game-3",
+          "materials_url": "https://example.test/media-3",
+          "genres": [
+            "Стратегия"
+          ],
+          "platforms": [
+            "Android"
+          ],
+          "languages": [
+            "Китайский (упрощённый)"
+          ],
+          "notes": "Fictional example 3"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_04",
+    "payload": {
+      "name": "Example Contact Four",
+      "contact": "contact4@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 4; do not contact.",
+      "company": "Company Four",
+      "direction": "outgoing",
+      "games": [
+        {
+          "title": "Game Example Four",
+          "url": "https://example.test/game-4",
+          "materials_url": "https://example.test/media-4",
+          "genres": [
+            "Головоломка"
+          ],
+          "platforms": [
+            "iOS"
+          ],
+          "languages": [
+            "Японский"
+          ],
+          "notes": "Fictional example 4"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_05",
+    "payload": {
+      "name": "Example Contact Five",
+      "contact": "contact5@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 5; do not contact.",
+      "company": "Company Five",
+      "direction": "incoming",
+      "games": [
+        {
+          "title": "Game Example Five",
+          "url": "https://example.test/game-5",
+          "materials_url": "https://example.test/media-5",
+          "genres": [
+            "Симулятор"
+          ],
+          "platforms": [
+            "Nintendo Switch"
+          ],
+          "languages": [
+            "Корейский"
+          ],
+          "notes": "Fictional example 5"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_06",
+    "payload": {
+      "name": "Example Contact Six",
+      "contact": "contact6@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 6; do not contact.",
+      "company": "Company Six",
+      "direction": "outgoing",
+      "games": [
+        {
+          "title": "Game Example Six",
+          "url": "https://example.test/game-6",
+          "materials_url": "https://example.test/media-6",
+          "genres": [
+            "Экшен"
+          ],
+          "platforms": [
+            "Xbox"
+          ],
+          "languages": [
+            "Французский"
+          ],
+          "notes": "Fictional example 6"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_07",
+    "payload": {
+      "name": "Example Contact Seven",
+      "contact": "contact7@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 7; do not contact.",
+      "company": "Company Seven",
+      "direction": "incoming",
+      "games": [
+        {
+          "title": "Game Example Seven",
+          "url": "https://example.test/game-7",
+          "materials_url": "https://example.test/media-7",
+          "genres": [
+            "Хоррор"
+          ],
+          "platforms": [
+            "Web"
+          ],
+          "languages": [
+            "Немецкий"
+          ],
+          "notes": "Fictional example 7"
+        }
+      ]
+    }
+  },
+  {
+    "case": "valid_08",
+    "payload": {
+      "name": "Example Contact Eight",
+      "contact": "contact8@example.test",
+      "source": "demo test payload",
+      "comment": "Fictional test submission 8; do not contact.",
+      "company": "Company Eight",
+      "direction": "outgoing",
+      "games": [
+        {
+          "title": "Game Example Eight",
+          "url": "https://example.test/game-8",
+          "materials_url": "https://example.test/media-8",
+          "genres": [
+            "Казуальная"
+          ],
+          "platforms": [
+            "PC"
+          ],
+          "languages": [
+            "Испанский"
+          ],
+          "notes": "Fictional example 8"
+        }
+      ]
+    }
+  }
+]
